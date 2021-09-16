@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="66048" started-at="2021-09-15T10:33:18Z" finished-at="2021-09-15T10:34:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="66048" started-at="2021-09-15T10:33:18Z" finished-at="2021-09-15T10:34:24Z">
+      <class name="PastbookTestCases.CreatePastbook">
+        <test-method status="PASS" signature="setup()[pri:0, instance:PastbookTestCases.CreatePastbook@5700d6b1]" name="setup" is-config="true" duration-ms="42417" started-at="2021-09-15T10:33:18Z" finished-at="2021-09-15T10:34:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test_LeftMenu_SignIn()[pri:0, instance:PastbookTestCases.CreatePastbook@5700d6b1]" name="test_LeftMenu_SignIn" duration-ms="653" started-at="2021-09-15T10:34:00Z" finished-at="2021-09-15T10:34:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_LeftMenu_SignIn -->
+        <test-method status="PASS" signature="test_Enter_EmailPwd()[pri:1, instance:PastbookTestCases.CreatePastbook@5700d6b1]" name="test_Enter_EmailPwd" duration-ms="11316" started-at="2021-09-15T10:34:01Z" finished-at="2021-09-15T10:34:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Enter_EmailPwd -->
+        <test-method status="PASS" signature="test_Create_Pastbook()[pri:2, instance:PastbookTestCases.CreatePastbook@5700d6b1]" name="test_Create_Pastbook" duration-ms="11628" started-at="2021-09-15T10:34:12Z" finished-at="2021-09-15T10:34:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Create_Pastbook -->
+      </class> <!-- PastbookTestCases.CreatePastbook -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
